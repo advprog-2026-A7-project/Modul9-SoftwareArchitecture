@@ -7,3 +7,15 @@
 - Made Shandy Krisnanda / 2406495615
 
 ---
+
+## Context Now
+
+![Context Now](images/Group/context-now.jpeg)
+
+## Deployment
+
+![Deployment](images/Group/deployment.png)
+
+## Container Now
+
+![Container Now](images/Group/container-now.jpeg)
